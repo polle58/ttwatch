@@ -1,4 +1,4 @@
-ttwatch
+ freebsttwatch
 =======
 
 Linux TomTom GPS Watch Utilities
